@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name plotter_board)(type Legacy)(uri ${KIPRJMOD}/plotter_board.lib)(options "")(descr ""))
+  (lib (name ESP32_mini)(type Legacy)(uri ${KIPRJMOD}/ESP32_mini.lib)(options "")(descr ""))
+  (lib (name "ESP32 Plotter-cache")(type Legacy)(uri "${KIPRJMOD}/ESP32 Plotter-cache.lib")(options "")(descr ""))
+  (lib (name SilentStepStick-TMC2208_v11-eagle-import)(type Legacy)(uri /home/jason/Desktop/plotter_board/TMC2208_v11/SilentStepStick-TMC2208_v11-eagle-import.lib)(options "")(descr ""))
+  (lib (name plotter_board-rescue)(type Legacy)(uri ${KIPRJMOD}/plotter_board-rescue.lib)(options "")(descr ""))
+)

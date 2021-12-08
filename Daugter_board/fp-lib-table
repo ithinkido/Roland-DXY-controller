@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name plotter_board)(type KiCad)(uri /home/jason/Desktop/plotter_board/plotter_board.pretty)(options "")(descr ""))
+)
