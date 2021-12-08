@@ -1,4 +1,4 @@
-16932433443961783
+16938989316403934
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -75270,6 +75270,34 @@ ESP32_mini
 0
 40
 40
+plotter_board
+Molex_SPOX_5267-06A_1x06_P2.50mm_Vertical
+Molex SPOX Connector System, 5267-06A, 6 Pins per row (http://www.molex.com/pdm_docs/sd/022035035_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX side entry
+0
+6
+6
+plotter_board
+Molex_SPOX_5267-09A_1x09_P2.50mm_Vertical
+Molex SPOX Connector System, 5267-09A, 9 Pins per row (http://www.molex.com/pdm_docs/sd/022035035_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX side entry
+0
+9
+9
+plotter_board
+Molex_SPOX_5267-10A_1x10_P2.50mm_Vertical
+Molex SPOX Connector System, 5267-10A, 10 Pins per row (http://www.molex.com/pdm_docs/sd/022035035_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX side entry
+0
+10
+10
+plotter_board
+Molex_SPOX_5267-12A_1x12_P2.50mm_Vertical
+Molex SPOX Connector System, 5267-12A, 12 Pins per row (http://www.molex.com/pdm_docs/sd/022035035_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX side entry
+0
+12
+12
 plotter_board
 QFN28-PAD
 
