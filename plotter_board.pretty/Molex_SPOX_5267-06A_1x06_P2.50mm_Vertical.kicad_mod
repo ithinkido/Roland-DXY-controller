@@ -1,4 +1,4 @@
-(module Molex_SPOX_5267-06A_1x06_P2.50mm_Vertical (layer F.Cu) (tedit 61B0ABEE)
+(module Molex_SPOX_5267-06A_1x06_P2.50mm_Vertical (layer F.Cu) (tedit 61B5E755)
   (descr "Molex SPOX Connector System, 5267-06A, 6 Pins per row (http://www.molex.com/pdm_docs/sd/022035035_sd.pdf), generated with kicad-footprint-generator")
   (tags "connector Molex SPOX side entry")
   (fp_text reference REF** (at 6.25 -4.3) (layer F.SilkS)
@@ -36,12 +36,12 @@
   (pad 5 thru_hole oval (at 10 0) (size 1.7 1.85) (drill 0.85) (layers *.Cu *.Mask))
   (pad 6 thru_hole oval (at 12.5 0) (size 1.7 1.85) (drill 0.85) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Connector_Molex.3dshapes/Molex_SPOX_5267-06A_1x06_P2.50mm_Vertical.wrl
-    (at (xyz 0 0 0))
+    (offset (xyz 0 0.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model /home/jason/Documents/GitHub/Roland-DXY-controller/3D/Mini_Spox_6pin.stp
-    (offset (xyz 6.26 0.5 3))
+  (model "/home/jason/Desktop/plotter_board/2209(flip)/3D/Mini_Spox_6pin v3.step"
+    (offset (xyz 6.25 0.65 3))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))
   )

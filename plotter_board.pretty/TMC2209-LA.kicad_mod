@@ -1,4 +1,5 @@
-(module TMC2209-LA (layer F.Cu) (tedit 61A8CE6C)
+(module TMC2209-LA (layer F.Cu) (tedit 61B5D6EB)
+  (attr smd)
   (fp_text reference REF** (at -0.06 -4.04) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -6,12 +7,6 @@
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user * (at -3.44 -2.68) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text user * (at -2.0447 -1.75) (layer F.Fab)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text user * (at -3.44 -2.69) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user * (at -2.0447 -1.75) (layer F.Fab)
@@ -207,6 +202,11 @@
   (pad 28 smd rect (at -1.5 -2.4257) (size 0.254 0.762) (layers F.Cu F.Paste F.Mask))
   (pad 29 smd rect (at 0 0) (size 3.3 3.3) (layers F.Cu F.Mask))
   (model ${KIPRJMOD}/QFN28_5X5_TRI.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "/home/jason/Desktop/plotter_board/2209(flip)/3D/QFN28_5X5_TRI.step"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

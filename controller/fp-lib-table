@@ -1,4 +1,3 @@
 (fp_lib_table
-  (lib (name plotter_board)(type KiCad)(uri ${KIPRJMOD}/plotter_board.pretty)(options "")(descr ""))
-  (lib (name 3d)(type KiCad)(uri ~/3D)(options "")(descr ""))
+  (lib (name plotter_board)(type KiCad)(uri "/home/jason/Desktop/plotter_board/2209(flip)/plotter_board.pretty")(options "")(descr ""))
 )

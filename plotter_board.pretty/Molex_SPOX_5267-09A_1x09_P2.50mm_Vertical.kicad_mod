@@ -1,4 +1,4 @@
-(module Molex_SPOX_5267-09A_1x09_P2.50mm_Vertical (layer F.Cu) (tedit 5B7833F7)
+(module Molex_SPOX_5267-09A_1x09_P2.50mm_Vertical (layer F.Cu) (tedit 61B5E7FC)
   (descr "Molex SPOX Connector System, 5267-09A, 9 Pins per row (http://www.molex.com/pdm_docs/sd/022035035_sd.pdf), generated with kicad-footprint-generator")
   (tags "connector Molex SPOX side entry")
   (fp_text reference REF** (at 10 -4.3) (layer F.SilkS)
@@ -41,6 +41,11 @@
   (model ${KISYS3DMOD}/Connector_Molex.3dshapes/Molex_SPOX_5267-09A_1x09_P2.50mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -60 0 0))
+  )
+  (model "/home/jason/Desktop/plotter_board/2209(flip)/3D/Mini_Spox_9pin v2.step"
+    (offset (xyz 10 0.65 3))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 180))
   )
 )

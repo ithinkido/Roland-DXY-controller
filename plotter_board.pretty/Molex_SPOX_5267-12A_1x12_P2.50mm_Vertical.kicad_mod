@@ -1,4 +1,4 @@
-(module Molex_SPOX_5267-12A_1x12_P2.50mm_Vertical (layer F.Cu) (tedit 5B7833F7)
+(module Molex_SPOX_5267-12A_1x12_P2.50mm_Vertical (layer F.Cu) (tedit 61B5E8B7)
   (descr "Molex SPOX Connector System, 5267-12A, 12 Pins per row (http://www.molex.com/pdm_docs/sd/022035035_sd.pdf), generated with kicad-footprint-generator")
   (tags "connector Molex SPOX side entry")
   (fp_text reference REF** (at 13.75 -4.3) (layer F.SilkS)
@@ -45,5 +45,10 @@
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
+  )
+  (model "/home/jason/Desktop/plotter_board/2209(flip)/3D/Mini_Spox_12pin v2.step"
+    (offset (xyz 13.75 0.64 3))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 180))
   )
 )

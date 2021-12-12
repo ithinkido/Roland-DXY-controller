@@ -1,4 +1,4 @@
-(module Conn_uSDcard (layer F.Cu) (tedit 6199A138)
+(module Conn_uSDcard (layer F.Cu) (tedit 61B5F334)
   (attr smd)
   (fp_text reference REF** (at 0 1 180) (layer F.Fab)
     (effects (font (size 0.6 0.6) (thickness 0.1)))
@@ -82,8 +82,8 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))
   )
-  (model /home/jason/Desktop/plotter_board/TF-15x15_SD_Card.step
-    (offset (xyz 7.5 -4 0))
+  (model "/home/jason/Desktop/plotter_board/2209(flip)/3D/TF-15x15_SD_Card.step"
+    (offset (xyz 7.4 -4 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))
   )

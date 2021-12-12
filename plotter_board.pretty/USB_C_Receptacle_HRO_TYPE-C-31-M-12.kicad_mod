@@ -1,4 +1,4 @@
-(module USB_C_Receptacle_HRO_TYPE-C-31-M-12 (layer F.Cu) (tedit 61999BF4)
+(module USB_C_Receptacle_HRO_TYPE-C-31-M-12 (layer F.Cu) (tedit 61B5F1C2)
   (descr "USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf")
   (tags "usb usb-c 2.0 pd")
   (attr smd)
@@ -52,6 +52,11 @@
     (rotate (xyz 0 0 0))
   )
   (model /home/jason/Desktop/plotter_board/TYPE-C-31-M-12--3DModel-STEP-56544.step
+    (offset (xyz 0 -1 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 -10))
+  )
+  (model "/home/jason/Desktop/plotter_board/2209(flip)/3D/TYPE-C-31-M-12--3DModel-STEP-56544.step"
     (offset (xyz 0 -1 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

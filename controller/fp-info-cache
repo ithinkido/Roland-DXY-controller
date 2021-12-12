@@ -1,4 +1,4 @@
-16938989316403934
+16935752665317783
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -75264,13 +75264,6 @@ Conn_uSDcard
 13
 9
 plotter_board
-ESP32_mini
-
-
-0
-40
-40
-plotter_board
 Molex_SPOX_5267-06A_1x06_P2.50mm_Vertical
 Molex SPOX Connector System, 5267-06A, 6 Pins per row (http://www.molex.com/pdm_docs/sd/022035035_sd.pdf), generated with kicad-footprint-generator
 connector Molex SPOX side entry
@@ -75326,13 +75319,6 @@ usb usb-c 2.0 pd
 0
 20
 17
-plotter_board
-edge_mask
-Converted using: svg2mod -i /home/jason/Desktop/outline.svg -o '/home/jason/Desktop/plotter_board/2208_(copy)/plotter_board.pretty/edge_mask.kicad_mod'
-svg2mod
-0
-0
-0
 plotter_board
 pad_all
 Converted using: svg2mod -i /home/jason/Desktop/plotter_board/Daugter_board/pad.svg -o /home/jason/Desktop/plotter_board/plotter_board.pretty/pad_all.kicad_mod
