@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name plotter_board)(type Legacy)(uri /home/jason/Desktop/plotter_board/plotter_board.lib)(options "")(descr ""))
-  (lib (name SilentStepStick-TMC2208_v11-eagle-import)(type Legacy)(uri /home/jason/Desktop/plotter_board/TMC2208_v11/SilentStepStick-TMC2208_v11-eagle-import.lib)(options "")(descr ""))
-  (lib (name Daugter_board-rescue)(type Legacy)(uri ${KIPRJMOD}/Daugter_board-rescue.lib)(options "")(descr ""))
-)
