@@ -246,7 +246,7 @@ Connection ~ 4205 1950
 Wire Wire Line
 	4300 1950 4205 1950
 $Comp
-L plotter_board-rescue:TMC2208-SilentStepStick-TMC2208_v11-eagle-import IC1
+L plotter_board-rescue:TMC2208-SilentStepStick-TMC2208_v11-eagle-import-plotter_board-rescue-plotter_board-rescue IC1
 U 1 1 22F7723E
 P 5100 2950
 F 0 "IC1" H 4500 4150 59  0000 L TNN
@@ -369,7 +369,7 @@ F 4 "C13585" V 6950 1750 50  0001 C CNN "LCSC"
 	-1   0    0    1   
 $EndComp
 $Comp
-L plotter_board-rescue:R-EU_M0805-SilentStepStick-TMC2208_v11-eagle-import R12
+L plotter_board-rescue:R-EU_M0805-SilentStepStick-TMC2208_v11-eagle-import-plotter_board-rescue-plotter_board-rescue R12
 U 1 1 0DC3F8C1
 P 6150 4350
 F 0 "R12" H 6050 4425 59  0000 L BNN
@@ -442,7 +442,7 @@ Wire Wire Line
 Wire Wire Line
 	9550 2500 9550 2550
 $Comp
-L plotter_board-rescue:RESISTOR-0402-SilentStepStick-TMC2208_v11-eagle-import R20
+L plotter_board-rescue:RESISTOR-0402-SilentStepStick-TMC2208_v11-eagle-import-plotter_board-rescue-plotter_board-rescue R20
 U 1 1 60E92562
 P 9550 2300
 F 0 "R20" V 9550 2450 59  0000 C BNN
@@ -500,7 +500,7 @@ F 4 "C1525" H 11550 2100 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L plotter_board-rescue:R-EU_M0805-SilentStepStick-TMC2208_v11-eagle-import R29
+L plotter_board-rescue:R-EU_M0805-SilentStepStick-TMC2208_v11-eagle-import-plotter_board-rescue-plotter_board-rescue R29
 U 1 1 60E92600
 P 11950 4350
 F 0 "R29" H 11800 4409 59  0000 L BNN
@@ -512,7 +512,7 @@ F 4 "C104949" H 11950 4350 50  0001 C CNN "LCSC"
 	0    -1   -1   0   
 $EndComp
 $Comp
-L plotter_board-rescue:R-EU_M0805-SilentStepStick-TMC2208_v11-eagle-import R28
+L plotter_board-rescue:R-EU_M0805-SilentStepStick-TMC2208_v11-eagle-import-plotter_board-rescue-plotter_board-rescue R28
 U 1 1 60E9260B
 P 11600 4350
 F 0 "R28" H 11450 4409 59  0000 L BNN
@@ -1674,7 +1674,7 @@ Wire Wire Line
 Wire Wire Line
 	11350 1950 11550 1950
 $Comp
-L plotter_board-rescue:TMC2208-SilentStepStick-TMC2208_v11-eagle-import IC2
+L plotter_board-rescue:TMC2208-SilentStepStick-TMC2208_v11-eagle-import-plotter_board-rescue-plotter_board-rescue IC2
 U 1 1 60E9253D
 P 10550 2950
 F 0 "IC2" H 9950 4150 59  0000 L TNN
@@ -1698,7 +1698,7 @@ Connection ~ 4205 2550
 Wire Wire Line
 	4205 2550 4300 2550
 $Comp
-L plotter_board-rescue:RESISTOR-0402-SilentStepStick-TMC2208_v11-eagle-import R5
+L plotter_board-rescue:RESISTOR-0402-SilentStepStick-TMC2208_v11-eagle-import-plotter_board-rescue-plotter_board-rescue R5
 U 1 1 60EA6620
 P 4205 2310
 F 0 "R5" V 4205 2410 59  0000 C BNN
@@ -2152,7 +2152,7 @@ Connection ~ 12725 1950
 Wire Wire Line
 	12725 1950 13100 1950
 $Comp
-L plotter_board-rescue:R-EU_M0805-SilentStepStick-TMC2208_v11-eagle-import R13
+L plotter_board-rescue:R-EU_M0805-SilentStepStick-TMC2208_v11-eagle-import-plotter_board-rescue-plotter_board-rescue R13
 U 1 1 F05E0EDF
 P 6500 4350
 F 0 "R13" H 6400 4400 59  0000 L BNN
