@@ -2,9 +2,9 @@
  A modern ESP32 based controller for Roland DXY plotter with i2c shift regisers for button mapping, OLED dispay, solenoid drivers and on board TMC silent stepper drivers 
 
  Two boards have been designed. 
- ## TMC 2208
+ ## [TMC 2208](https://github.com/ithinkido/Roland-DXY-controller/tree/TMC-2208)
  Standard STEP/DIR  control no UART
- ## TMC 2209
+ ## [TMC 2209](https://github.com/ithinkido/Roland-DXY-controller/tree/TMC-2209)
   UAURT + STEP/DIR control with posiblity to use stall guard and all other features of UART controlled TMC
 
   **See branches for more info**
